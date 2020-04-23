@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\ShortUrl.DataLayer\ShortUrl.DataLayer.csproj" />
+    <ProjectReference Include="..\ShortUrl.Entities\ShortUrl.Entities.csproj" />
+  </ItemGroup>
+
+</Project>

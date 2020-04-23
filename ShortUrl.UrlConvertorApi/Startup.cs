@@ -13,7 +13,7 @@ using Microsoft.Extensions.Logging;
 using ShortUrl.Services.Interfaces;
 using ShortUrl.Services.Services;
 
-namespace ShortUrl.WebApi
+namespace ShortUrl.UrlConvertorApi
 {
     public class Startup
     {
